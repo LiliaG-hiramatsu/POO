@@ -1,0 +1,168 @@
+
+  Sun, 29 Nov 2020 12:41:46 
+La articulacion 1 se movió con éxito a la posición (12.0,23.0,32.0)
+La velocidad de la articulación 1 es 12.0 rad/s
+Sentido de giro antihorario
+
+  Sun, 29 Nov 2020 12:42:53 
+Pistola de pintura activada
+Pintando de color azul
+La velocidad del efector final es 12.0 rad/s
+
+ Sun, 29 Nov 2020 12:43:03 
+El robot seteó sus variables articulares en cero
+
+  Sun, 29 Nov 2020 12:43:20 
+La articulacion 2 se movió con éxito a la posición (12.0,34.0,23.0)
+La velocidad de la articulación 2 es 23.0 rad/s
+Sentido de giro horario
+
+  Sun, 29 Nov 2020 12:43:46 
+Pistola de pintura desactivada
+La pistola de pintura se encuentra desactivada
+Cambio de color a amarillo
+La velocidad del efector final es 12.0 rad/s
+
+
+  Sun, 29 Nov 2020 12:44:55 
+Pistola de pintura activada
+Pintando de color azul
+La velocidad del efector final es 12 rad/s
+
+ Sun, 29 Nov 2020 12:44:55 
+El robot seteó sus variables articulares en cero
+
+  Sun, 29 Nov 2020 12:44:55 
+La articulacion 2 se movió con éxito a la posición (12,34,23)
+La velocidad de la articulación 2 es 23 rad/s
+Sentido de giro horario
+
+  Sun, 29 Nov 2020 12:47:17 
+La articulacion 3 se movió con éxito a la posición (12,34,21)
+La velocidad de la articulación 3 es 32 rad/s
+Sentido de giro antihorario
+
+  Sun, 29 Nov 2020 12:47:28 
+Pistola de pintura activada
+Pintando de color amarillo
+La velocidad del efector final es 34 rad/s
+
+ Sun, 29 Nov 2020 12:47:47 
+El robot seteó sus variables articulares en cero
+
+  Sun, 29 Nov 2020 12:48:12 
+Pistola de pintura activada
+Pintando de color rojo
+La velocidad del efector final es 12 rad/s
+
+
+  Sun, 29 Nov 2020 12:48:12 
+Pistola de pintura activada
+Pintando de color azul
+La velocidad del efector final es 45 rad/s
+
+ Sun, 29 Nov 2020 12:48:12 
+El robot seteó sus variables articulares en cero
+
+  Sun, 29 Nov 2020 12:48:12 
+La articulacion 2 se movió con éxito a la posición (22,48,54)
+La velocidad de la articulación 2 es 15 rad/s
+Sentido de giro antihorario
+
+  Sun, 29 Nov 2020 12:48:12 
+La articulacion 1 se movió con éxito a la posición (25,32,12)
+La velocidad de la articulación 1 es 43 rad/s
+Sentido de giro horario
+
+  Sun, 29 Nov 2020 12:48:12 
+Pistola de pintura activada
+Pintando de color amarillo
+La velocidad del efector final es 20 rad/s
+
+
+  Sun, 29 Nov 2020 12:48:12 
+La articulacion 2 se movió con éxito a la posición (30,30,90)
+La velocidad de la articulación 2 es 30 rad/s
+Sentido de giro horario
+
+  Sun, 29 Nov 2020 12:48:12 
+La articulacion 3 se movió con éxito a la posición (2,4,50)
+La velocidad de la articulación 3 es 3 rad/s
+Sentido de giro horario
+
+  Sun, 29 Nov 2020 14:00:59 
+Pistola de pintura activada
+Pintando de color azul
+La velocidad del efector final es 12.0 rad/s
+
+
+  Sun, 29 Nov 2020 14:01:13 
+La articulacion 1 se movió con éxito a la posición (12.0,12.0,32.0)
+La velocidad de la articulación 1 es 5.0 rad/s
+Sentido de giro antihorario
+ Sun, 29 Nov 2020 14:01:27 
+El robot seteó sus variables articulares en cero
+
+  Sun, 29 Nov 2020 14:05:34 
+Pistola de pintura activada
+Pintando de color amarillo
+La velocidad del efector final es 12.0 rad/s
+
+
+  Sun, 29 Nov 2020 14:05:56 
+La articulacion 2 se movió con éxito a la posición (12.0,21.0,32.0)
+La velocidad de la articulación 2 es 12.0 rad/s
+Sentido de giro antihorario
+
+  Sun, 29 Nov 2020 14:13:39 
+Pistola de pintura activada
+Pintando de color rojo
+La velocidad del efector final es 12 rad/s
+
+
+  Sun, 29 Nov 2020 14:13:39 
+Pistola de pintura activada
+Pintando de color azul
+La velocidad del efector final es 45 rad/s
+
+ Sun, 29 Nov 2020 14:13:39 
+El robot seteó sus variables articulares en cero
+
+  Sun, 29 Nov 2020 14:13:39 
+La articulacion 2 se movió con éxito a la posición (22,48,54)
+La velocidad de la articulación 2 es 15 rad/s
+Sentido de giro antihorario
+
+  Sun, 29 Nov 2020 14:13:39 
+La articulacion 1 se movió con éxito a la posición (25,32,12)
+La velocidad de la articulación 1 es 43 rad/s
+Sentido de giro horario
+
+  Sun, 29 Nov 2020 14:13:39 
+Pistola de pintura activada
+Pintando de color amarillo
+La velocidad del efector final es 20 rad/s
+
+
+  Sun, 29 Nov 2020 14:13:39 
+La articulacion 2 se movió con éxito a la posición (30,30,90)
+La velocidad de la articulación 2 es 30 rad/s
+Sentido de giro horario
+
+  Sun, 29 Nov 2020 14:13:39 
+La articulacion 3 se movió con éxito a la posición (2,4,50)
+La velocidad de la articulación 3 es 3 rad/s
+Sentido de giro horario
+
+  Sun, 29 Nov 2020 14:26:44 
+La articulacion 1 se movió con éxito a la posición (12,23,12)
+La velocidad de la articulación 1 es 34 rad/s
+Sentido de giro antihorario
+
+  Sun, 29 Nov 2020 14:28:38 
+Pistola de pintura activada
+Pintando de color azul
+La velocidad del efector final es 12 rad/s
+
+ Sun, 29 Nov 2020 14:30:08 
+El robot seteó sus variables articulares en cero
